@@ -1,0 +1,1234 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-22T19:32:35Z",
+  "base_url": "https://raw.githubusercontent.com/electric13/radiostations/main/",
+  "groups": [
+    {
+      "id": "record",
+      "name": "Радио Рекорд",
+      "logo": "logos/record_main.png",
+      "accent_color": "#FF2D55",
+      "is_flat": false,
+      "order": 1,
+      "streams": [
+        {
+          "id": "record_record",
+          "name": "Record",
+          "genre": "HOUSE, POP",
+          "stream_url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rr_main64.aacp",
+          "logo": "logos/record_record.png",
+          "bitrate": 320,
+          "order": 1
+        },
+        {
+          "id": "record_rus",
+          "name": "Russian Mix",
+          "genre": "POP, RUSSIAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/rus96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rus64.aacp",
+          "logo": "logos/record_rus.png",
+          "bitrate": 320,
+          "order": 2
+        },
+        {
+          "id": "record_khity-vsekh-vremen",
+          "name": "Хиты всех времен",
+          "genre": "HOUSE, OLDSCHOOL, POP, Эпохи",
+          "stream_url": "https://radiorecord.hostingradio.ru/alltimers96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/alltimers64.aacp",
+          "logo": "logos/record_khity-vsekh-vremen.png",
+          "bitrate": 320,
+          "order": 3
+        },
+        {
+          "id": "record_sd90",
+          "name": "Супердискотека 90-х",
+          "genre": "OLDSCHOOL, POP, RUSSIAN, Эпохи",
+          "stream_url": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/sd9064.aacp",
+          "logo": "logos/record_sd90.png",
+          "bitrate": 320,
+          "order": 4
+        },
+        {
+          "id": "record_russianhits",
+          "name": "Russian Hits",
+          "genre": "POP, RUSSIAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/russianhits96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/russianhits64.aacp",
+          "logo": "logos/record_russianhits.png",
+          "bitrate": 320,
+          "order": 5
+        },
+        {
+          "id": "record_pump",
+          "name": "Колбасный Цех",
+          "genre": "OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/pump96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/pump64.aacp",
+          "logo": "logos/record_pump.png",
+          "bitrate": 320,
+          "order": 6
+        },
+        {
+          "id": "record_live-dj-sets",
+          "name": "Festivals",
+          "genre": "HOUSE, TECHNO, TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/livedjsets96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/livedjsets64.aacp",
+          "logo": "logos/record_live-dj-sets.png",
+          "bitrate": 320,
+          "order": 7
+        },
+        {
+          "id": "record_deep",
+          "name": "Deep",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/deep96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/deep64.aacp",
+          "logo": "logos/record_deep.png",
+          "bitrate": 320,
+          "order": 8
+        },
+        {
+          "id": "record_chil",
+          "name": "Chill-Out",
+          "genre": "CHILL, Сон",
+          "stream_url": "https://radiorecord.hostingradio.ru/chil96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/chil64.aacp",
+          "logo": "logos/record_chil.png",
+          "bitrate": 320,
+          "order": 9
+        },
+        {
+          "id": "record_skazki",
+          "name": "Сказки MC V",
+          "genre": "CHILL, Сон, Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/skazki96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/skazki64.aacp",
+          "logo": "logos/record_skazki.png",
+          "bitrate": 320,
+          "order": 10
+        },
+        {
+          "id": "record_nashashlyki",
+          "name": "На шашлыки!",
+          "genre": "POP, RUSSIAN, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/nashashlyki96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/nashashlyki64.aacp",
+          "logo": "logos/record_nashashlyki.png",
+          "bitrate": 320,
+          "order": 11
+        },
+        {
+          "id": "record_mix",
+          "name": "Megamix",
+          "genre": "HOUSE, POP, Спорт",
+          "stream_url": "https://radiorecord.hostingradio.ru/mix96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/mix64.aacp",
+          "logo": "logos/record_mix.png",
+          "bitrate": 320,
+          "order": 12
+        },
+        {
+          "id": "record_rock",
+          "name": "Rock",
+          "genre": "Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/rock96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rock64.aacp",
+          "logo": "logos/record_rock.png",
+          "bitrate": 320,
+          "order": 13
+        },
+        {
+          "id": "record_rmx",
+          "name": "Remix",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/rmx96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rmx64.aacp",
+          "logo": "logos/record_rmx.png",
+          "bitrate": 320,
+          "order": 14
+        },
+        {
+          "id": "record_gop",
+          "name": "Гоп FM",
+          "genre": "POP, RUSSIAN, Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/gop96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/gop64.aacp",
+          "logo": "logos/record_gop.png",
+          "bitrate": 320,
+          "order": 15
+        },
+        {
+          "id": "record_bighits",
+          "name": "Big Hits",
+          "genre": "POP",
+          "stream_url": "https://radiorecord.hostingradio.ru/bighits96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/bighits64.aacp",
+          "logo": "logos/record_bighits.png",
+          "bitrate": 320,
+          "order": 16
+        },
+        {
+          "id": "record_chillhouse",
+          "name": "Chill House",
+          "genre": "CHILL, HOUSE, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/chillhouse96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/chillhouse64.aacp",
+          "logo": "logos/record_chillhouse.png",
+          "bitrate": 320,
+          "order": 17
+        },
+        {
+          "id": "record_record00",
+          "name": "Рекорд 00-х",
+          "genre": "OLDSCHOOL, Эпохи",
+          "stream_url": "https://radiorecord.hostingradio.ru/200096.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/200064.aacp",
+          "logo": "logos/record_record00.png",
+          "bitrate": 320,
+          "order": 18
+        },
+        {
+          "id": "record_melodic",
+          "name": "Melodic Techno",
+          "genre": "TECHNO",
+          "stream_url": "https://radiorecord.hostingradio.ru/melodic96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/melodic64.aacp",
+          "logo": "logos/record_melodic.png",
+          "bitrate": 320,
+          "order": 19
+        },
+        {
+          "id": "record_1980",
+          "name": "Record 80-х",
+          "genre": "OLDSCHOOL, POP, Эпохи",
+          "stream_url": "https://radiorecord.hostingradio.ru/198096.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/198064.aacp",
+          "logo": "logos/record_1980.png",
+          "bitrate": 320,
+          "order": 20
+        },
+        {
+          "id": "record_naft",
+          "name": "Нафталин FM",
+          "genre": "POP, RUSSIAN, Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/naft96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/naft64.aacp",
+          "logo": "logos/record_naft.png",
+          "bitrate": 320,
+          "order": 21
+        },
+        {
+          "id": "record_mf",
+          "name": "Маятник Фуко",
+          "genre": "RAP/URBAN, RUSSIAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/mf96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/mf64.aacp",
+          "logo": "logos/record_mf.png",
+          "bitrate": 320,
+          "order": 22
+        },
+        {
+          "id": "record_tm",
+          "name": "Trancemission",
+          "genre": "TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/tm96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/tm64.aacp",
+          "logo": "logos/record_tm.png",
+          "bitrate": 320,
+          "order": 23
+        },
+        {
+          "id": "record_summer-dance",
+          "name": "Summer Dance",
+          "genre": "HOUSE, POP, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/summerparty64.aacp",
+          "logo": "logos/record_summer-dance.png",
+          "bitrate": 320,
+          "order": 24
+        },
+        {
+          "id": "record_russiangold",
+          "name": "Russian Gold",
+          "genre": "POP, RUSSIAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/russiangold96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/russiangold64.aacp",
+          "logo": "logos/record_russiangold.png",
+          "bitrate": 320,
+          "order": 25
+        },
+        {
+          "id": "record_beach",
+          "name": "Beach Party",
+          "genre": "HOUSE, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/beach96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/beach64.aacp",
+          "logo": "logos/record_beach.png",
+          "bitrate": 320,
+          "order": 26
+        },
+        {
+          "id": "record_ps",
+          "name": "Pirate Station",
+          "genre": "DRUM",
+          "stream_url": "https://radiorecord.hostingradio.ru/ps96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/ps64.aacp",
+          "logo": "logos/record_ps.png",
+          "bitrate": 320,
+          "order": 27
+        },
+        {
+          "id": "record_mashup",
+          "name": "Mashup",
+          "genre": "Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/mashup96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/mashup64.aacp",
+          "logo": "logos/record_mashup.png",
+          "bitrate": 320,
+          "order": 28
+        },
+        {
+          "id": "record_ibiza",
+          "name": "Innocence",
+          "genre": "HOUSE, TECHNO",
+          "stream_url": "https://radiorecord.hostingradio.ru/ibiza96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/ibiza64.aacp",
+          "logo": "logos/record_ibiza.png",
+          "bitrate": 320,
+          "order": 29
+        },
+        {
+          "id": "record_mdl",
+          "name": "Медляк FM",
+          "genre": "CHILL, POP, Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/mdl96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/mdl64.aacp",
+          "logo": "logos/record_mdl.png",
+          "bitrate": 320,
+          "order": 30
+        },
+        {
+          "id": "record_party-24-7",
+          "name": "Party 24/7",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/party96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/party64.aacp",
+          "logo": "logos/record_party-24-7.png",
+          "bitrate": 320,
+          "order": 31
+        },
+        {
+          "id": "record_phonk",
+          "name": "Phonk",
+          "genre": "RAP/URBAN, Спорт",
+          "stream_url": "https://radiorecord.hostingradio.ru/phonk96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/phonk64.aacp",
+          "logo": "logos/record_phonk.png",
+          "bitrate": 320,
+          "order": 32
+        },
+        {
+          "id": "record_gold",
+          "name": "Record Gold",
+          "genre": "OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/gold96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/gold64.aacp",
+          "logo": "logos/record_gold.png",
+          "bitrate": 320,
+          "order": 33
+        },
+        {
+          "id": "record_rv19",
+          "name": "Руки Вверх!",
+          "genre": "OLDSCHOOL, POP, RUSSIAN, Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/rv96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rv64.aacp",
+          "logo": "logos/record_rv19.png",
+          "bitrate": 320,
+          "order": 34
+        },
+        {
+          "id": "record_hype",
+          "name": "На Хайпе",
+          "genre": "POP, RAP/URBAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/hype96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/hype64.aacp",
+          "logo": "logos/record_hype.png",
+          "bitrate": 320,
+          "order": 35
+        },
+        {
+          "id": "record_rap",
+          "name": "Rap Hits",
+          "genre": "RAP/URBAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/rap96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rap64.aacp",
+          "logo": "logos/record_rap.png",
+          "bitrate": 320,
+          "order": 36
+        },
+        {
+          "id": "record_rapclassics",
+          "name": "Rap Classics",
+          "genre": "RAP/URBAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/rapclassics96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rapclassics64.aacp",
+          "logo": "logos/record_rapclassics.png",
+          "bitrate": 320,
+          "order": 37
+        },
+        {
+          "id": "record_trancehits",
+          "name": "Trance Classics",
+          "genre": "TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/trancehits96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/trancehits64.aacp",
+          "logo": "logos/record_trancehits.png",
+          "bitrate": 320,
+          "order": 38
+        },
+        {
+          "id": "record_drumhits",
+          "name": "D'n'B Classics",
+          "genre": "DRUM",
+          "stream_url": "https://radiorecord.hostingradio.ru/drumhits96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/drumhits64.aacp",
+          "logo": "logos/record_drumhits.png",
+          "bitrate": 320,
+          "order": 39
+        },
+        {
+          "id": "record_armin",
+          "name": "Armin van Buuren",
+          "genre": "TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/armin96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/armin64.aacp",
+          "logo": "logos/record_armin.png",
+          "bitrate": 320,
+          "order": 40
+        },
+        {
+          "id": "record_summerlounge",
+          "name": "Summer Lounge",
+          "genre": "CHILL, Лето, Сон",
+          "stream_url": "https://radiorecord.hostingradio.ru/summerlounge96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/summerlounge64.aacp",
+          "logo": "logos/record_summerlounge.png",
+          "bitrate": 320,
+          "order": 41
+        },
+        {
+          "id": "record_organic",
+          "name": "Organic",
+          "genre": "CHILL, HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/organic96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/organic64.aacp",
+          "logo": "logos/record_organic.png",
+          "bitrate": 320,
+          "order": 42
+        },
+        {
+          "id": "record_ultra",
+          "name": "Ultra Music Festival",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/ultra96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/ultra64.aacp",
+          "logo": "logos/record_ultra.png",
+          "bitrate": 320,
+          "order": 43
+        },
+        {
+          "id": "record_vip",
+          "name": "VIP House",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/vip96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/vip64.aacp",
+          "logo": "logos/record_vip.png",
+          "bitrate": 320,
+          "order": 44
+        },
+        {
+          "id": "record_brks",
+          "name": "Breaks",
+          "genre": "BASS, BREAKS",
+          "stream_url": "https://radiorecord.hostingradio.ru/brks96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/brks64.aacp",
+          "logo": "logos/record_brks.png",
+          "bitrate": 320,
+          "order": 45
+        },
+        {
+          "id": "record_liquidfunk",
+          "name": "Liquid Funk",
+          "genre": "DRUM",
+          "stream_url": "https://radiorecord.hostingradio.ru/liquidfunk96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/liquidfunk64.aacp",
+          "logo": "logos/record_liquidfunk.png",
+          "bitrate": 320,
+          "order": 46
+        },
+        {
+          "id": "record_workout",
+          "name": "Workout",
+          "genre": "HOUSE, HARD, Спорт",
+          "stream_url": "https://radiorecord.hostingradio.ru/workout96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/workout64.aacp",
+          "logo": "logos/record_workout.png",
+          "bitrate": 320,
+          "order": 47
+        },
+        {
+          "id": "record_club",
+          "name": "EDM",
+          "genre": "HOUSE, Спорт",
+          "stream_url": "https://radiorecord.hostingradio.ru/club96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/club64.aacp",
+          "logo": "logos/record_club.png",
+          "bitrate": 320,
+          "order": 48
+        },
+        {
+          "id": "record_jackin",
+          "name": "Bass House",
+          "genre": "BASS, HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/jackin96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/jackin64.aacp",
+          "logo": "logos/record_jackin.png",
+          "bitrate": 320,
+          "order": 49
+        },
+        {
+          "id": "record_goa",
+          "name": "GOA/PSY",
+          "genre": "HARD, TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/goa96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/goa64.aacp",
+          "logo": "logos/record_goa.png",
+          "bitrate": 320,
+          "order": 50
+        },
+        {
+          "id": "record_2010",
+          "name": "10's Dance",
+          "genre": "HOUSE, POP, Эпохи",
+          "stream_url": "https://radiorecord.hostingradio.ru/201096.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/201064.aacp",
+          "logo": "logos/record_2010.png",
+          "bitrate": 320,
+          "order": 51
+        },
+        {
+          "id": "record_trancehouse",
+          "name": "Trancehouse",
+          "genre": "CHILL, HOUSE, TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/trancehouse96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/trancehouse64.aacp",
+          "logo": "logos/record_trancehouse.png",
+          "bitrate": 320,
+          "order": 52
+        },
+        {
+          "id": "record_yo",
+          "name": "Black Rap",
+          "genre": "RAP/URBAN",
+          "stream_url": "https://radiorecord.hostingradio.ru/yo96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/yo64.aacp",
+          "logo": "logos/record_yo.png",
+          "bitrate": 320,
+          "order": 53
+        },
+        {
+          "id": "record_techno",
+          "name": "Techno",
+          "genre": "HARD, TECHNO",
+          "stream_url": "https://radiorecord.hostingradio.ru/techno96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/techno64.aacp",
+          "logo": "logos/record_techno.png",
+          "bitrate": 320,
+          "order": 54
+        },
+        {
+          "id": "record_trop",
+          "name": "Tropical",
+          "genre": "CHILL, HOUSE, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/trop96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/trop64.aacp",
+          "logo": "logos/record_trop.png",
+          "bitrate": 320,
+          "order": 55
+        },
+        {
+          "id": "record_lofi",
+          "name": "Lo-Fi",
+          "genre": "CHILL, Сон",
+          "stream_url": "https://radiorecord.hostingradio.ru/lofi96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/lofi64.aacp",
+          "logo": "logos/record_lofi.png",
+          "bitrate": 320,
+          "order": 56
+        },
+        {
+          "id": "record_techouse",
+          "name": "Tech House",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/techouse96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/techouse64.aacp",
+          "logo": "logos/record_techouse.png",
+          "bitrate": 320,
+          "order": 57
+        },
+        {
+          "id": "record_trap",
+          "name": "Trap",
+          "genre": "BASS, RAP/URBAN, Спорт",
+          "stream_url": "https://radiorecord.hostingradio.ru/trap96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/trap64.aacp",
+          "logo": "logos/record_trap.png",
+          "bitrate": 320,
+          "order": 58
+        },
+        {
+          "id": "record_technopop",
+          "name": "Technopop",
+          "genre": "OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/technopop96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/technopop64.aacp",
+          "logo": "logos/record_technopop.png",
+          "bitrate": 320,
+          "order": 59
+        },
+        {
+          "id": "record_1970",
+          "name": "70's Dance",
+          "genre": "POP, Эпохи",
+          "stream_url": "https://radiorecord.hostingradio.ru/197096.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/197064.aacp",
+          "logo": "logos/record_1970.png",
+          "bitrate": 320,
+          "order": 60
+        },
+        {
+          "id": "record_dream",
+          "name": "Dream Dance",
+          "genre": "OLDSCHOOL, TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/dream96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/dream64.aacp",
+          "logo": "logos/record_dream.png",
+          "bitrate": 320,
+          "order": 61
+        },
+        {
+          "id": "record_neurofunk",
+          "name": "Neurofunk",
+          "genre": "DRUM",
+          "stream_url": "https://radiorecord.hostingradio.ru/neurofunk96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/neurofunk64.aacp",
+          "logo": "logos/record_neurofunk.png",
+          "bitrate": 320,
+          "order": 62
+        },
+        {
+          "id": "record_ambient",
+          "name": "Ambient",
+          "genre": "CHILL, Сон",
+          "stream_url": "https://radiorecord.hostingradio.ru/ambient96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/ambient64.aacp",
+          "logo": "logos/record_ambient.png",
+          "bitrate": 320,
+          "order": 63
+        },
+        {
+          "id": "record_recordclassix",
+          "name": "Record Classix",
+          "genre": "HOUSE, OLDSCHOOL, Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/classix96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/classix64.aacp",
+          "logo": "logos/record_recordclassix.png",
+          "bitrate": 320,
+          "order": 64
+        },
+        {
+          "id": "record_recordclubshow",
+          "name": "Record Club Show",
+          "genre": "HOUSE, Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/clubshow96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/clubshow64.aacp",
+          "logo": "logos/record_recordclubshow.png",
+          "bitrate": 320,
+          "order": 65
+        },
+        {
+          "id": "record_eurodance",
+          "name": "Eurodance",
+          "genre": "OLDSCHOOL, POP",
+          "stream_url": "https://radiorecord.hostingradio.ru/eurodance96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/eurodance64.aacp",
+          "logo": "logos/record_eurodance.png",
+          "bitrate": 320,
+          "order": 66
+        },
+        {
+          "id": "record_lo-fi-house",
+          "name": "Lo-Fi House",
+          "genre": "CHILL, HOUSE, Сон",
+          "stream_url": "https://radiorecord.hostingradio.ru/lofihouse96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/lofihouse64.aacp",
+          "logo": "logos/record_lo-fi-house.png",
+          "bitrate": 320,
+          "order": 67
+        },
+        {
+          "id": "record_househits",
+          "name": "House Hits",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/househits96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/househits64.aacp",
+          "logo": "logos/record_househits.png",
+          "bitrate": 320,
+          "order": 68
+        },
+        {
+          "id": "record_uplift",
+          "name": "Uplifting",
+          "genre": "HARD, TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/uplift96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/uplift64.aacp",
+          "logo": "logos/record_uplift.png",
+          "bitrate": 320,
+          "order": 69
+        },
+        {
+          "id": "record_feel",
+          "name": "Feel",
+          "genre": "TRANCE, Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/feel96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/feel64.aacp",
+          "logo": "logos/record_feel.png",
+          "bitrate": 320,
+          "order": 70
+        },
+        {
+          "id": "record_tiesto",
+          "name": "Tiesto",
+          "genre": "HOUSE, POP",
+          "stream_url": "https://radiorecord.hostingradio.ru/tiesto96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/tiesto64.aacp",
+          "logo": "logos/record_tiesto.png",
+          "bitrate": 320,
+          "order": 71
+        },
+        {
+          "id": "record_a-state-of-trance",
+          "name": "A State of Trance",
+          "genre": "TRANCE, Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/asot96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/asot64.aacp",
+          "logo": "logos/record_a-state-of-trance.png",
+          "bitrate": 320,
+          "order": 72
+        },
+        {
+          "id": "record_deti",
+          "name": "Веснушка FM",
+          "genre": "RUSSIAN, Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/deti96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/deti64.aacp",
+          "logo": "logos/record_deti.png",
+          "bitrate": 320,
+          "order": 73
+        },
+        {
+          "id": "record_symph",
+          "name": "Симфония FM",
+          "genre": "Прикол, Сон",
+          "stream_url": "https://radiorecord.hostingradio.ru/symph96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/symph64.aacp",
+          "logo": "logos/record_symph.png",
+          "bitrate": 320,
+          "order": 74
+        },
+        {
+          "id": "record_mini",
+          "name": "Minimal/Tech",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/mini96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/mini64.aacp",
+          "logo": "logos/record_mini.png",
+          "bitrate": 320,
+          "order": 75
+        },
+        {
+          "id": "record_top-100-edm",
+          "name": "TOP 100 EDM",
+          "genre": "HOUSE, TECHNO",
+          "stream_url": "https://radiorecord.hostingradio.ru/top100edm96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/top100edm64.aacp",
+          "logo": "logos/record_top-100-edm.png",
+          "bitrate": 320,
+          "order": 76
+        },
+        {
+          "id": "record_dream-pop",
+          "name": "Dream Pop",
+          "genre": "CHILL, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/dreampop96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/dreampop64.aacp",
+          "logo": "logos/record_dream-pop.png",
+          "bitrate": 320,
+          "order": 77
+        },
+        {
+          "id": "record_houseclss",
+          "name": "House Classics",
+          "genre": "HOUSE, OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/houseclss96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/houseclss64.aacp",
+          "logo": "logos/record_houseclss.png",
+          "bitrate": 320,
+          "order": 78
+        },
+        {
+          "id": "record_guetta",
+          "name": "David Guetta",
+          "genre": "HOUSE, POP",
+          "stream_url": "https://radiorecord.hostingradio.ru/guetta96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/guetta64.aacp",
+          "logo": "logos/record_guetta.png",
+          "bitrate": 320,
+          "order": 79
+        },
+        {
+          "id": "record_tsvetkov",
+          "name": "DJ Цветкоff",
+          "genre": "Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/tsvetkov96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/tsvetkov64.aacp",
+          "logo": "logos/record_tsvetkov.png",
+          "bitrate": 320,
+          "order": 80
+        },
+        {
+          "id": "record_discofunk",
+          "name": "Disco/Funk",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/discofunk96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/discofunk64.aacp",
+          "logo": "logos/record_discofunk.png",
+          "bitrate": 320,
+          "order": 81
+        },
+        {
+          "id": "record_hbass",
+          "name": "Hard Bass",
+          "genre": "BASS, HARD, OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/hbass96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/hbass64.aacp",
+          "logo": "logos/record_hbass.png",
+          "bitrate": 320,
+          "order": 82
+        },
+        {
+          "id": "record_afro",
+          "name": "Afro House",
+          "genre": "HOUSE, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/afro96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/afro64.aacp",
+          "logo": "logos/record_afro.png",
+          "bitrate": 320,
+          "order": 83
+        },
+        {
+          "id": "record_rave",
+          "name": "Rave FM",
+          "genre": "HARD, OLDSCHOOL, Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/rave96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/rave64.aacp",
+          "logo": "logos/record_rave.png",
+          "bitrate": 320,
+          "order": 84
+        },
+        {
+          "id": "record_nu-dance",
+          "name": "Nu Dance",
+          "genre": "TECHNO, Спорт",
+          "stream_url": "https://radiorecord.hostingradio.ru/nudance96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/nudance64.aacp",
+          "logo": "logos/record_nu-dance.png",
+          "bitrate": 320,
+          "order": 85
+        },
+        {
+          "id": "record_cadillac",
+          "name": "60's Dance",
+          "genre": "POP, Эпохи",
+          "stream_url": "https://radiorecord.hostingradio.ru/cadillac96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/cadillac64.aacp",
+          "logo": "logos/record_cadillac.png",
+          "bitrate": 320,
+          "order": 86
+        },
+        {
+          "id": "record_lady-waks",
+          "name": "Lady Waks",
+          "genre": "BREAKS, Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/ladywaks96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/ladywaks64.aacp",
+          "logo": "logos/record_lady-waks.png",
+          "bitrate": 320,
+          "order": 87
+        },
+        {
+          "id": "record_dc",
+          "name": "Dancecore",
+          "genre": "OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/dc96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/dc64.aacp",
+          "logo": "logos/record_dc.png",
+          "bitrate": 320,
+          "order": 88
+        },
+        {
+          "id": "record_fut",
+          "name": "Future House",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/fut96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/fut64.aacp",
+          "logo": "logos/record_fut.png",
+          "bitrate": 320,
+          "order": 89
+        },
+        {
+          "id": "record_darkside",
+          "name": "Darkside",
+          "genre": "DRUM",
+          "stream_url": "https://radiorecord.hostingradio.ru/darkside96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/darkside64.aacp",
+          "logo": "logos/record_darkside.png",
+          "bitrate": 320,
+          "order": 90
+        },
+        {
+          "id": "record_futurerave",
+          "name": "Future Rave",
+          "genre": "HOUSE, HARD, TECHNO, TRANCE",
+          "stream_url": "https://radiorecord.hostingradio.ru/futurerave96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/futurerave64.aacp",
+          "logo": "logos/record_futurerave.png",
+          "bitrate": 320,
+          "order": 91
+        },
+        {
+          "id": "record_reggae",
+          "name": "Reggae",
+          "genre": "OLDSCHOOL, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/reggae96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/reggae64.aacp",
+          "logo": "logos/record_reggae.png",
+          "bitrate": 320,
+          "order": 92
+        },
+        {
+          "id": "record_elect",
+          "name": "Electro",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/elect96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/elect64.aacp",
+          "logo": "logos/record_elect.png",
+          "bitrate": 320,
+          "order": 93
+        },
+        {
+          "id": "record_teo",
+          "name": "Hardstyle",
+          "genre": "HARD",
+          "stream_url": "https://radiorecord.hostingradio.ru/teo96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/teo64.aacp",
+          "logo": "logos/record_teo.png",
+          "bitrate": 320,
+          "order": 94
+        },
+        {
+          "id": "record_dub",
+          "name": "Dubstep",
+          "genre": "BASS, Спорт",
+          "stream_url": "https://radiorecord.hostingradio.ru/dub96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/dub64.aacp",
+          "logo": "logos/record_dub.png",
+          "bitrate": 320,
+          "order": 95
+        },
+        {
+          "id": "record_progr",
+          "name": "Progressive",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/progr96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/progr64.aacp",
+          "logo": "logos/record_progr.png",
+          "bitrate": 320,
+          "order": 96
+        },
+        {
+          "id": "record_nejtrinobaur",
+          "name": "Nejtrino & Baur",
+          "genre": "Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/nejtrinobaur96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/nejtrinobaur64.aacp",
+          "logo": "logos/record_nejtrinobaur.png",
+          "bitrate": 320,
+          "order": 97
+        },
+        {
+          "id": "record_synth",
+          "name": "Synthwave",
+          "genre": "OLDSCHOOL, POP",
+          "stream_url": "https://radiorecord.hostingradio.ru/synth96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/synth64.aacp",
+          "logo": "logos/record_synth.png",
+          "bitrate": 320,
+          "order": 98
+        },
+        {
+          "id": "record_latina",
+          "name": "Latina Dance",
+          "genre": "POP, Лето",
+          "stream_url": "https://radiorecord.hostingradio.ru/latina96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/latina64.aacp",
+          "logo": "logos/record_latina.png",
+          "bitrate": 320,
+          "order": 99
+        },
+        {
+          "id": "record_dj-gvozd",
+          "name": "DJ Gvozd",
+          "genre": "DRUM, Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/djgvozd96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/djgvozd64.aacp",
+          "logo": "logos/record_dj-gvozd.png",
+          "bitrate": 320,
+          "order": 100
+        },
+        {
+          "id": "record_edmhits",
+          "name": "EDM Classics",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/edmhits96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/edmhits64.aacp",
+          "logo": "logos/record_edmhits.png",
+          "bitrate": 320,
+          "order": 101
+        },
+        {
+          "id": "record_tecktonik",
+          "name": "Tecktonik",
+          "genre": "HOUSE, OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/tecktonik96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/tecktonik64.aacp",
+          "logo": "logos/record_tecktonik.png",
+          "bitrate": 320,
+          "order": 102
+        },
+        {
+          "id": "record_jungle",
+          "name": "Jungle",
+          "genre": "DRUM",
+          "stream_url": "https://radiorecord.hostingradio.ru/jungle96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/jungle64.aacp",
+          "logo": "logos/record_jungle.png",
+          "bitrate": 320,
+          "order": 103
+        },
+        {
+          "id": "record_hypno",
+          "name": "Hypnotic",
+          "genre": "HOUSE, OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/hypno96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/hypno64.aacp",
+          "logo": "logos/record_hypno.png",
+          "bitrate": 320,
+          "order": 104
+        },
+        {
+          "id": "record_uk-garage",
+          "name": "UK Garage",
+          "genre": "BREAKS, HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/ukgarage96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/ukgarage64.aacp",
+          "logo": "logos/record_uk-garage.png",
+          "bitrate": 320,
+          "order": 105
+        },
+        {
+          "id": "record_gast",
+          "name": "Гастарбайтер FM",
+          "genre": "POP, Прикол",
+          "stream_url": "https://radiorecord.hostingradio.ru/gast96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/gast64.aacp",
+          "logo": "logos/record_gast.png",
+          "bitrate": 320,
+          "order": 106
+        },
+        {
+          "id": "record_mt",
+          "name": "Midtempo",
+          "genre": "BASS",
+          "stream_url": "https://radiorecord.hostingradio.ru/mt96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/mt64.aacp",
+          "logo": "logos/record_mt.png",
+          "bitrate": 320,
+          "order": 107
+        },
+        {
+          "id": "record_fbass",
+          "name": "Future Bass",
+          "genre": "BASS",
+          "stream_url": "https://radiorecord.hostingradio.ru/fbass96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/fbass64.aacp",
+          "logo": "logos/record_fbass.png",
+          "bitrate": 320,
+          "order": 108
+        },
+        {
+          "id": "record_martingarrix",
+          "name": "Martin Garrix",
+          "genre": "Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/martingarrix96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/martingarrix64.aacp",
+          "logo": "logos/record_martingarrix.png",
+          "bitrate": 320,
+          "order": 109
+        },
+        {
+          "id": "record_oliverheldens",
+          "name": "Oliver Heldens",
+          "genre": "Радиошоу",
+          "stream_url": "https://radiorecord.hostingradio.ru/oliverheldens96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/oliverheldens64.aacp",
+          "logo": "logos/record_oliverheldens.png",
+          "bitrate": 320,
+          "order": 110
+        },
+        {
+          "id": "record_mmbt",
+          "name": "Moombahton",
+          "genre": "POP",
+          "stream_url": "https://radiorecord.hostingradio.ru/mmbt96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/mmbt64.aacp",
+          "logo": "logos/record_mmbt.png",
+          "bitrate": 320,
+          "order": 111
+        },
+        {
+          "id": "record_2step",
+          "name": "2-step",
+          "genre": "BASS, BREAKS, OLDSCHOOL",
+          "stream_url": "https://radiorecord.hostingradio.ru/2step96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/2step64.aacp",
+          "logo": "logos/record_2step.png",
+          "bitrate": 320,
+          "order": 112
+        },
+        {
+          "id": "record_complextro",
+          "name": "Complextro",
+          "genre": "BASS, HOUSE, HARD",
+          "stream_url": "https://radiorecord.hostingradio.ru/complextro96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/complextro64.aacp",
+          "logo": "logos/record_complextro.png",
+          "bitrate": 320,
+          "order": 113
+        },
+        {
+          "id": "record_groovetribal",
+          "name": "Groove/Tribal",
+          "genre": "HOUSE",
+          "stream_url": "https://radiorecord.hostingradio.ru/groovetribal96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/groovetribal64.aacp",
+          "logo": "logos/record_groovetribal.png",
+          "bitrate": 320,
+          "order": 114
+        },
+        {
+          "id": "record_christmas-chill",
+          "name": "Christmas Chill",
+          "genre": "CHILL, Сон, Новый год",
+          "stream_url": "https://radiorecord.hostingradio.ru/christmaschill96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/christmaschill64.aacp",
+          "logo": "logos/record_christmas-chill.png",
+          "bitrate": 320,
+          "order": 115
+        },
+        {
+          "id": "record_christmas-radio",
+          "name": "Christmas",
+          "genre": "OLDSCHOOL, POP, RUSSIAN, Новый год",
+          "stream_url": "https://radiorecord.hostingradio.ru/christmas96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/christmas64.aacp",
+          "logo": "logos/record_christmas-radio.png",
+          "bitrate": 320,
+          "order": 116
+        },
+        {
+          "id": "record_ruszima",
+          "name": "Русская Зима",
+          "genre": "RUSSIAN, Новый год",
+          "stream_url": "https://radiorecord.hostingradio.ru/ruszima96.aacp",
+          "backup_url": "https://radiorecord.hostingradio.ru/ruszima64.aacp",
+          "logo": "logos/record_ruszima.png",
+          "bitrate": 320,
+          "order": 117
+        }
+      ]
+    },
+    {
+      "id": "nashe",
+      "name": "Наше Радио",
+      "logo": "logos/nashe_main.png",
+      "accent_color": "#007AFF",
+      "is_flat": false,
+      "order": 2,
+      "streams": [
+        {
+          "id": "nashe_main",
+          "name": "Наше Радио",
+          "genre": "Русский рок",
+          "stream_url": "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
+          "logo": "logos/nashe_main.png",
+          "bitrate": 128,
+          "order": 1
+        },
+        {
+          "id": "nashe_20",
+          "name": "Наше 2.0",
+          "genre": "Новый русский рок",
+          "stream_url": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+          "logo": "logos/nashe_20.png",
+          "bitrate": 128,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "name": "Разное",
+      "logo": "logos/ultra.png",
+      "accent_color": "#30D158",
+      "is_flat": true,
+      "order": 3,
+      "streams": [
+        {
+          "id": "ultra",
+          "name": "Радио ULTRA",
+          "genre": "Alternative Rock / Metal",
+          "stream_url": "https://nashe1.hostingradio.ru:80/ultra-192.mp3",
+          "logo": "logos/ultra.png",
+          "bitrate": 192,
+          "order": 1
+        }
+      ]
+    }
+  ]
+}
